@@ -7,39 +7,39 @@
       <logicalFolder name="imageproc-lib"
                      displayName="imageproc-lib"
                      projectFiles="true">
-        <itemPath>../../imageproc-lib/ams-enc.h</itemPath>
-        <itemPath>../../imageproc-lib/at86rf231_driver.h</itemPath>
-        <itemPath>../../imageproc-lib/carray.h</itemPath>
-        <itemPath>../../imageproc-lib/delay.s</itemPath>
-        <itemPath>../../imageproc-lib/dfmem.h</itemPath>
-        <itemPath>../../imageproc-lib/mac_packet.h</itemPath>
-        <itemPath>../../imageproc-lib/payload.h</itemPath>
-        <itemPath>../../imageproc-lib/radio.h</itemPath>
-        <itemPath>../../imageproc-lib/sclock.h</itemPath>
-        <itemPath>../../imageproc-lib/tih.h</itemPath>
-        <itemPath>../../imageproc-lib/uart_driver.h</itemPath>
-        <itemPath>../../imageproc-lib/spi_controller.h</itemPath>
-        <itemPath>../../imageproc-lib/mpu6000.h</itemPath>
-        <itemPath>../../imageproc-lib/battery.h</itemPath>
-        <itemPath>../../imageproc-lib/ppool.h</itemPath>
-        <itemPath>../../imageproc-lib/queue.h</itemPath>
-        <itemPath>../../imageproc-lib/adc_pid.h</itemPath>
-        <itemPath>../../imageproc-lib/i2c_driver.h</itemPath>
-        <itemPath>../../imageproc-lib/init_default.h</itemPath>
-        <itemPath>../../imageproc-lib/telem.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/ams-enc.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/at86rf231_driver.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/carray.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/delay.s</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/dfmem.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/mac_packet.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/payload.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/radio.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/sclock.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/tih.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/uart_driver.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/spi_controller.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/mpu6000.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/battery.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/ppool.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/queue.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/adc_pid.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/i2c_driver.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/init_default.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/telem.h</itemPath>
       </logicalFolder>
       <logicalFolder name="lib" displayName="lib" projectFiles="true">
-        <itemPath>../lib/cmd_const.h</itemPath>
-        <itemPath>../lib/consts.h</itemPath>
-        <itemPath>../lib/init.h</itemPath>
-        <itemPath>../lib/interrupts.h</itemPath>
-        <itemPath>../lib/led.h</itemPath>
-        <itemPath>../lib/pid-ip2.5.h</itemPath>
-        <itemPath>../lib/tests.h</itemPath>
-        <itemPath>../lib/vr_telem.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/cmd_const.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/consts.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/init.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/interrupts.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/led.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/pid-ip2.5.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/tests.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/vr_telem.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="settings" projectFiles="true">
-        <itemPath>../../imageproc-settings/settings.h</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-settings/settings.h</itemPath>
       </logicalFolder>
       <itemPath>source/cmd.h</itemPath>
       <itemPath>source/tactile_driver.h</itemPath>
@@ -54,33 +54,33 @@
       <logicalFolder name="imageproc-lib"
                      displayName="imageproc-lib"
                      projectFiles="true">
-        <itemPath>../../imageproc-lib/ams-enc.c</itemPath>
-        <itemPath>../../imageproc-lib/at86rf231_driver.c</itemPath>
-        <itemPath>../../imageproc-lib/carray.c</itemPath>
-        <itemPath>../../imageproc-lib/dfmem.c</itemPath>
-        <itemPath>../../imageproc-lib/mac_packet.c</itemPath>
-        <itemPath>../../imageproc-lib/mpu6000.c</itemPath>
-        <itemPath>../../imageproc-lib/payload.c</itemPath>
-        <itemPath>../../imageproc-lib/ppool.c</itemPath>
-        <itemPath>../../imageproc-lib/queue.c</itemPath>
-        <itemPath>../../imageproc-lib/radio.c</itemPath>
-        <itemPath>../../imageproc-lib/sclock.c</itemPath>
-        <itemPath>../../imageproc-lib/spi_controller.c</itemPath>
-        <itemPath>../../imageproc-lib/tih.c</itemPath>
-        <itemPath>../../imageproc-lib/uart_driver.c</itemPath>
-        <itemPath>../../imageproc-lib/adc_pid.c</itemPath>
-        <itemPath>../../imageproc-lib/i2c_driver.c</itemPath>
-        <itemPath>../../imageproc-lib/init_default.c</itemPath>
-        <itemPath>../../imageproc-lib/version.c</itemPath>
-        <itemPath>../../imageproc-lib/telem.c</itemPath>
-        <itemPath>../../imageproc-lib/traps.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/ams-enc.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/at86rf231_driver.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/carray.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/dfmem.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/mac_packet.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/mpu6000.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/payload.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/ppool.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/queue.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/radio.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/sclock.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/spi_controller.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/tih.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/uart_driver.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/adc_pid.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/i2c_driver.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/init_default.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/version.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/telem.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/imageproc-lib/traps.c</itemPath>
       </logicalFolder>
       <logicalFolder name="lib" displayName="lib" projectFiles="true">
-        <itemPath>../lib/init.c</itemPath>
-        <itemPath>../lib/interrupts.c</itemPath>
-        <itemPath>../lib/pid-ip2.5.c</itemPath>
-        <itemPath>../lib/tests.c</itemPath>
-        <itemPath>../lib/vr_telem.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/init.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/interrupts.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/pid-ip2.5.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/tests.c</itemPath>
+        <itemPath>/Users/briansu/biomimetics/roach/lib/vr_telem.c</itemPath>
       </logicalFolder>
       <itemPath>source/cmd.c</itemPath>
       <itemPath>source/main.c</itemPath>
@@ -95,8 +95,10 @@
   <sourceRootList>
     <Elem>.</Elem>
     <Elem>../lib</Elem>
-    <Elem>../../imageproc-lib</Elem>
+    <Elem>../../../imageproc-lib</Elem>
     <Elem>../../imageproc-settings</Elem>
+    <Elem>/Users/briansu/biomimetics/imageproc-lib</Elem>
+    <Elem>/Users/briansu/biomimetics/imageproc-settings</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -126,7 +128,7 @@
       </compileType>
       <makeCustomizationType>
         <makeCustomizationPreStepEnabled>true</makeCustomizationPreStepEnabled>
-        <makeCustomizationPreStep>python ../../imageproc-lib/prebuild.py ../../imageproc-settings/settings.h</makeCustomizationPreStep>
+        <makeCustomizationPreStep>python /Users/briansu/biomimetics/imageproc-lib/prebuild.py /Users/briansu/biomimetics/imageproc-settings/settings.h</makeCustomizationPreStep>
         <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
         <makeCustomizationPostStep></makeCustomizationPostStep>
         <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
@@ -148,7 +150,7 @@
         <property key="enable-symbols" value="true"/>
         <property key="enable-unroll-loops" value="false"/>
         <property key="extra-include-directories"
-                  value="../lib;../../imageproc-lib;source;../../imageproc-settings"/>
+                  value="../lib;/Users/briansu/biomimetics/imageproc-lib;source;/Users/briansu/biomimetics/imageproc-settings"/>
         <property key="isolate-each-function" value="false"/>
         <property key="keep-inline" value="false"/>
         <property key="oXC16gcc-align-arr" value="false"/>
